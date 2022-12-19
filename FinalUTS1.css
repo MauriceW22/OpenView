@@ -1,0 +1,52 @@
+@charset "utf-8";
+/*
+		Final Assignment 
+		Website UTS 
+		Author: Maurice Whyte
+*/
+
+
+
+/* HTML style */
+
+  Html {
+   background-color: rgb (240, 248, 255);
+     }
+/* Heading Style */
+    h1 {
+	font: arial black;
+	font-size: 18pt;
+	}
+  
+/*  Body style  */
+  
+  body {
+    color: rgb( 91, 91, 91);
+	font: arial black;
+	font-size: 12pt;
+	}
+/* Aside style */
+   h2 {
+	   font-size: 14pt;
+	   margin-left: auto;
+	   margin-right: auto;
+   }
+	   
+
+/* Navigation Style */
+
+   nav.horizontalnavigation li {
+   display: block;   
+   color: rgb(91, 91, 91);
+   font: arial black;
+   font-size: 14pt;
+   float: left;
+   }
+   
+
+
+/* Footer Style  */
+    
+	footer {
+		font-size: 10pt;
+	}
